@@ -5,7 +5,7 @@
  #Align files to reference for differential abundance using TopHat
  
  #type path to Tophat here so you can access it from the script
- export PATH=$PATH:/data1/etassone/programs/tophat-2.0.14.Linux_x86_64/
+ export PATH=$PATH:/path/to/tophat-2.0.14.Linux_x86_64/
   
  #Define some variables for Tophat 
  TRANSCRIPTOME='/path/to/Transcriptome' #Type path to transcriptome here
