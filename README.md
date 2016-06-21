@@ -17,3 +17,5 @@ Run DeSEQ in R - use the .R program in RStudio to get your results.
 For 2 conditions: DESeq2_twoConditions.R
 
 for 3 conditions: Deseq2_multiple.R
+
+##Cufflinks
