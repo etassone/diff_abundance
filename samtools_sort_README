@@ -1,0 +1,16 @@
+After running Tophat on your files, proceed to this script for running the DESEQ pipeline.
+
+You will need the PATH to samtools 
+
+In your main program folder (our example is BUGS)
+
+cd /BUGS/
+mkdir 2_Samtools_Sort
+
+change the output of DIR to /BUGS/2_Samtools_Sort
+
+The path to the alignments will be /BUGS/1_tophat_alignments
+
+run the program by typing
+
+./samtools_sort.sh
